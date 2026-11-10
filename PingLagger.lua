@@ -35,7 +35,7 @@ ks.Size = UDim2.new(0, 60, 0, 60)
 ks.Position = UDim2.new(0, 20, 0.5, -30)
 
 ks.BackgroundColor3 = Color3.fromRGB(105, 45, 180)
-ks.Text = "KS"
+ks.Text = "WS"
 ks.TextColor3 = Color3.fromRGB(255, 255, 255)
 ks.TextSize = 21
 ks.Font = Enum.Font.GothamBold
@@ -79,7 +79,7 @@ local title = Instance.new("TextLabel")
 title.Size = UDim2.new(1, -30, 0, 32)
 title.Position = UDim2.new(0, 15, 0, 8)
 title.BackgroundTransparency = 1
-title.Text = "KS PING LAB"
+title.Text = "WSCRiPTS PING LAB"
 title.TextColor3 = Color3.fromRGB(220, 175, 255)
 title.TextSize = 20
 title.Font = Enum.Font.GothamBold
